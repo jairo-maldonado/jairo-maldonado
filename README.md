@@ -1,43 +1,47 @@
-# ¡Hola! Soy Jairo Maldonado 👋
+# Hola, soy Jairo Maldonado 🇨🇱
 
-🚀 **Desarrollador Full-Stack Junior** enfocado en construir aplicaciones web escalables, APIs RESTful y soluciones en la nube.  
-🎓 Estudiante de 6° semestre de **Ingeniería en Informática** en INACAP Renca.
-
----
-
-### 🛠️ Pila de Tecnología y Herramientas
-
-**Back-End:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Front-End:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Bases de Datos (SQL & NoSQL):**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Herramientas & DevOps:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Desarrollador de Software | Python, FastAPI & Modern Web**  
+Estudiante de Ingeniería en Informática en INACAP Renca. Enfocado en construir APIs robustas, integraciones de bases de datos y soluciones de software que optimizan y automatizan la operación de PYMEs y negocios en crecimiento.
 
 ---
 
-### 📌 Proyectos Destacados (En Desarrollo)
-
-* 🛒 **E-Commerce REST API** | *FastAPI + PostgreSQL + React*
-  * API RESTful modular para gestión de productos, autenticación con tokens JWT y control de inventario.
-  * 🌐 *Próximamente desplegado en Vercel & Render*
+### 💼 Qué aporto a tu equipo o proyecto
+- **Desarrollo Backend Confiable:** Creación de APIs REST seguras, modulares y documentadas bajo OpenAPI con FastAPI y Django.
+- **Bases de Datos Estructuradas:** Modelado relacional eficiente, normalización y optimización de consultas en PostgreSQL y Oracle.
+- **Interfaces Modernas:** Frontends rápidos y mantenibles con React, Angular y TypeScript.
+- **Enfoque Práctico de Negocio:** Código pensado para resolver cuellos de botella reales, integrando pagos, control de stock y reportería.
 
 ---
 
-### 📬 Conéctate Conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-maldonado-villablanca-880793405/)
+### 🛠️ Stack Tecnológico
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Backend** | Python, FastAPI, Django, Node.js |
+| **Frontend** | React, Angular, TypeScript, Tailwind CSS |
+| **Bases de Datos** | PostgreSQL, Oracle DB, MySQL, MongoDB |
+| **Herramientas & DevOps** | Docker, Git, Linux, Postman |
+
+---
+
+### 🚀 Proyectos Destacados
+
+#### 🛒 Plataforma E-Commerce & Control de Inventario
+*Sistema integral para digitalización de ventas y gestión de catálogo para comercio minorista.*
+* **Stack:** FastAPI, PostgreSQL, React, TypeScript, Docker.
+* **Características:** Autenticación con JWT, control de concurrencia en stock, panel de administración y documentación viva de endpoints.
+* [Ver Repositorio](https://github.com/jairo-maldonado) · [Demo en Vivo](#)
+
+#### 📋 Task Manager Colaborativo en Tiempo Real
+*Panel de administración de tareas operativas orientado a equipos ágiles.*
+* **Stack:** FastAPI, WebSockets, React, PostgreSQL.
+* **Características:** Notificaciones de estado al instante, control de roles de usuario y persistencia transaccional.
+* [Ver Repositorio](https://github.com/jairo-maldonado) · [Demo en Vivo](#)
+
+---
+
+### 📬 Contacto & Servicios
+¿Buscas desarrollar una API, automatizar procesos en tu empresa o sumar un desarrollador proactivo a tu equipo remoto? Conversemos:
+
+- **LinkedIn:** [linkedin.com/in/jairo-maldonado-villablanca-880793405](https://www.linkedin.com/in/jairo-maldonado-villablanca-880793405/)
+- **Ubicación:** Santiago, Chile (Disponible para trabajo 100% remoto)
