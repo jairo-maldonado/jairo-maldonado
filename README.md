@@ -1,15 +1,29 @@
-# Hola, soy Jairo Maldonado 🇨🇱
+# Hola, soy Jairo Maldonado 👋
 
-**Desarrollador de Software | Python, FastAPI & Modern Web**  
-Estudiante de Ingeniería en Informática en INACAP Renca. Enfocado en construir APIs robustas, integraciones de bases de datos y soluciones de software que optimizan y automatizan la operación de PYMEs y negocios en crecimiento.
+**Software Engineer / Full-Stack Developer** radicado en Santiago, Chile. Especializado en el desarrollo de aplicaciones web de alto rendimiento, interfaces accesibles y sistemas respaldados por arquitecturas modernas en la nube.
 
 ---
 
-### 💼 Qué aporto a tu equipo o proyecto
-- **Desarrollo Backend Confiable:** Creación de APIs REST seguras, modulares y documentadas bajo OpenAPI con FastAPI y Django.
-- **Bases de Datos Estructuradas:** Modelado relacional eficiente, normalización y optimización de consultas en PostgreSQL y Oracle.
-- **Interfaces Modernas:** Frontends rápidos y mantenibles con React, Angular y TypeScript.
-- **Enfoque Práctico de Negocio:** Código pensado para resolver cuellos de botella reales, integrando pagos, control de stock y reportería.
+### 💼 Enfoque Técnico & Valor de Negocio
+
+- **Frontend de Alto Rendimiento:** Desarrollo con **Next.js (App Router)**, **React**, **TypeScript** y **Tailwind CSS**, priorizando renderizado estático/híbrido, métricas Core Web Vitals (Lighthouse 95+) y arquitectura Server Components.
+- **Backend & Persistencia:** Construcción y consumo de APIs RESTful utilizando **Python**, **Django** y **PostgreSQL** (Supabase), implementando políticas de seguridad Row Level Security (RLS) y modelado relacional optimizado.
+- **SEO Técnico & Estándares Web:** Implementación de datos estructurados Schema.org (JSON-LD), sitemaps dinámicos, Open Graph y optimización de indexación para motores de búsqueda.
+- **Flujo de Producción:** Control de versiones semántico con **Git/GitHub**, contenedorización con **Docker** y despliegues continuos automatizados (CI/CD) en **Vercel**.
+
+---
+
+### 🚀 Proyecto Destacado en Producción
+
+#### [Auto Landing Pro — Solución Web para Servicio Automotriz](https://github.com/jairo-maldonado/auto-landing-pro)
+> Plataforma de conversión comercial y captación de clientes para taller mecánico en Santiago de Chile.
+
+- **Stack:** Next.js 16 (App Router), TypeScript, Tailwind CSS, Supabase (PostgreSQL), Vercel.
+- **Aspectos Técnicos Clave:**
+  - Prerenderizado estático puro con Server Components para carga ultrarrápida.
+  - Formulario de contacto asíncrono con persistencia directa en PostgreSQL mediante cliente de Supabase.
+  - SEO técnico local con Schema.org (`AutoRepair`), directivas `robots.txt` y generación dinámica de `sitemap.xml`.
+- **Demo en vivo:** [auto-landing-pro.vercel.app](https://auto-landing-cnwu4uyie-jairo-maldonados-projects.vercel.app/)
 
 ---
 
@@ -17,31 +31,15 @@ Estudiante de Ingeniería en Informática en INACAP Renca. Enfocado en construir
 
 | Área | Tecnologías |
 | :--- | :--- |
-| **Backend** | Python, FastAPI, Django, Node.js |
-| **Frontend** | React, Angular, TypeScript, Tailwind CSS |
-| **Bases de Datos** | PostgreSQL, Oracle DB, MySQL, MongoDB |
-| **Herramientas & DevOps** | Docker, Git, Linux, Postman |
+| **Frontend** | TypeScript, JavaScript, React.js, Next.js, Tailwind CSS, HTML5/CSS3 |
+| **Backend** | Python, Django, REST APIs, Node.js |
+| **Bases de Datos** | PostgreSQL, Supabase, MySQL |
+| **Herramientas & DevOps** | Git, GitHub, Docker, Vercel, WSL 2, Linux |
 
 ---
 
-### 🚀 Proyectos Destacados
+### 📬 Contacto & Redes
 
-#### 🛒 Plataforma E-Commerce & Control de Inventario
-*Sistema integral para digitalización de ventas y gestión de catálogo para comercio minorista.*
-* **Stack:** FastAPI, PostgreSQL, React, TypeScript, Docker.
-* **Características:** Autenticación con JWT, control de concurrencia en stock, panel de administración y documentación viva de endpoints.
-* [Ver Repositorio](https://github.com/jairo-maldonado) · [Demo en Vivo](#)
-
-#### 📋 Task Manager Colaborativo en Tiempo Real
-*Panel de administración de tareas operativas orientado a equipos ágiles.*
-* **Stack:** FastAPI, WebSockets, React, PostgreSQL.
-* **Características:** Notificaciones de estado al instante, control de roles de usuario y persistencia transaccional.
-* [Ver Repositorio](https://github.com/jairo-maldonado) · [Demo en Vivo](#)
-
----
-
-### 📬 Contacto & Servicios
-¿Buscas desarrollar una API, automatizar procesos en tu empresa o sumar un desarrollador proactivo a tu equipo remoto? Conversemos:
-
-- **LinkedIn:** [linkedin.com/in/jairo-maldonado-villablanca-880793405](https://www.linkedin.com/in/jairo-maldonado-villablanca-880793405/)
-- **Ubicación:** Santiago, Chile (Disponible para trabajo 100% remoto)
+- **LinkedIn:** [Jairo Maldonado](https://www.linkedin.com/in/jairo-javier-maldonado-villablanca-880793405/)
+- **Email:** jairovillablanca8@gmail.com (mailto:tu_correo_aqui@gmail.com)
+- **Ubicación:** Santiago, Chile (Disponible para proyectos y roles remotos/híbridos)
